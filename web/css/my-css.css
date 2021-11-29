@@ -1,0 +1,13 @@
+.my-bg {
+    background-image: url('https://images2.alphacoders.com/928/928887.jpg'); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.95;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.my-link a {
+    color: #ff6600
+}
+
